@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Russian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Alexandr Prokopev;SENT-BY="MAILTO:d.kolpakova@qiwi.com":MAILTO:a
+ .prokopev@qiwi.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=diane.kolp
+ akova@gmail.com:MAILTO:diane.kolpakova@gmail.com
+DESCRIPTION;LANGUAGE=en-GB:&nbsp\;\n&nbsp\;\nFrom: Прокопьев Ал
+ ександр Владимирович <a.prokopev@qiwi.com>\nDate: Wedne
+ sday\, 21 October 2020\, 14:28\nTo: Колпакова Диана Сарг
+ аевна <d.kolpakova@qiwi.com>\nSubject: https://us02web.zoom.us/j/8977
+ 0046185?pwd=cmdYa1pxTVFZdjE1LzhEN2Z5ZWxVZz09\n&nbsp\;\nAlexander Prokopyev
+  приглашает вас на запланированную конф
+ еренцию: Zoom.&nbsp\;\n&nbsp\;\nТема: Zoom meeting invitation -
+  Zoom Meeting Alexander Prokopyev&nbsp\;\nВремя: 21 окт 2020 03:00
+  PM Москва&nbsp\;\n&nbsp\;\nПодключиться к конфер
+ енции Zoom&nbsp\;\nhttps://us02web.zoom.us/j/89770046185?pwd=cmdYa1px
+ TVFZdjE1LzhEN2Z5ZWxVZz09&nbsp\;\n&nbsp\;\nИдентификатор ко
+ нференции: 897 7004 6185&nbsp\;\nКод доступа: 310029&nb
+ sp\;\nОдно касание на мобильном телефоне&nbs
+ p\;\n+16699006833\,\,89770046185#\,\,\,\,\,\,0#\,\,310029# Соедине
+ нные Штаты Америки (San Jose)&nbsp\;\n+12532158782\,\,8977
+ 0046185#\,\,\,\,\,\,0#\,\,310029# Соединенные Штаты Аме
+ рики (Tacoma)&nbsp\;\n&nbsp\;\nНабор в зависимости о
+ т местоположения&nbsp\;\n&nbsp\; &nbsp\; &nbsp\; &nbsp\; +1
+  669 900 6833 Соединенные Штаты Америки (San Jose)&
+ nbsp\;\n&nbsp\; &nbsp\; &nbsp\; &nbsp\; +1 253 215 8782 Соединенн
+ ые Штаты Америки (Tacoma)&nbsp\;\n&nbsp\; &nbsp\; &nbsp\; &n
+ bsp\; +1 301 715 8592 Соединенные Штаты Америки (Ge
+ rmantown)&nbsp\;\n&nbsp\; &nbsp\; &nbsp\; &nbsp\; +1 312 626 6799 Соед
+ иненные Штаты Америки (Chicago)&nbsp\;\n&nbsp\; &nbsp\;
+  &nbsp\; &nbsp\; +1 346 248 7799 Соединенные Штаты Аме
+ рики (Houston)&nbsp\;\n&nbsp\; &nbsp\; &nbsp\; &nbsp\; +1 408 638 0968
+  Соединенные Штаты Америки (San Jose)&nbsp\;\n&nbsp
+ \; &nbsp\; &nbsp\; &nbsp\; +1 646 876 9923 Соединенные Штат
+ ы Америки (New York)&nbsp\;\nИдентификатор конфе
+ ренции: 897 7004 6185&nbsp\;\nКод доступа: 310029&nbsp\;\n
+ Найдите свой местный номер: https://us02web.zoom.us
+ /u/kbKOlZotHC&nbsp\;\n&nbsp\;\n
+UID:040000008200E00074C5B7101A82E00800000000BD6D31978CA7D601000000000000000
+ 010000000ADB73B8D871DEB46B10EF1F4211FD284
+SUMMARY;LANGUAGE=en-GB:FW: https://us02web.zoom.us/j/89770046185?pwd=cmdYa1
+ pxTVFZdjE1LzhEN2Z5ZWxVZz09
+DTSTART;TZID=Russian Standard Time:20201021T150000
+DTEND;TZID=Russian Standard Time:20201021T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20201021T092854Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-GB:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2118822589
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
